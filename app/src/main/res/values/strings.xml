@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMPractice</string>
+    <string name="empty">isEmpty</string>
+</resources>
