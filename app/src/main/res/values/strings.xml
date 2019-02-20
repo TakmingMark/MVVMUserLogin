@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">MVVMPractice</string>
+    <string name="app_name">MVVMUserLogin</string>
     <string name="empty">isEmpty</string>
 </resources>

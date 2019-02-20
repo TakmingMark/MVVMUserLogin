@@ -5,7 +5,7 @@ apply plugin: 'kotlin-kapt'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.markwang.mvvmpractice"
+        applicationId "com.example.markwang.mvvmuserlogin"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
